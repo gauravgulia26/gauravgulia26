@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gauravgulia26
 - 👀 I’m interested in Artificial Intelligence/ Technologies/ Development/ Machine Learning
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gouravgulia.2603@gmail.com
 
