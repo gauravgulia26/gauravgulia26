@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&width=700&height=45&lines=🚀+Data+Scientist+%7C+ML+%7C+NLP+%7C+Gen+AI+Expert;🔍+Exploring+AI+to+solve+real-world+problems!;🎨+Blending+Technology+with+Design!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&width=800&height=45&lines=🚀+Data+Scientist+%7C+ML+%7C+NLP+%7C+Gen+AI+Expert;🔍+Exploring+AI+to+solve+real-world+problems!;🎨+Blending+Technology+with+Design!;⚙️+MLOps+%7C+CI%2FCD+%7C+Model+Monitoring+%7C+Production+ML;📦+Deploying+robust+ML+pipelines+at+scale;🧠+Mathematics+is+the+language+of+the+universe.;💡+Code+is+like+humor.+When+you+have+to+explain+it,+it%E2%80%99s+bad.;📊+In+God+we+trust,+all+others+bring+data.;🔗+Transforming+ideas+into+scalable+solutions." alt="Typing SVG">
 </p>
+
 
 <!-- Header -->
 <h1 align="center">Hi there, I'm Gourav Gulia! 👋</h1>
